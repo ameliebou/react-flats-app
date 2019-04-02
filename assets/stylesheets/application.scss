@@ -37,3 +37,12 @@ body {
   height: 100%;
   width: 100%;
 }
+
+.marker {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1px solid #892121;
+  box-shadow: 0px 0px 5px rgb(100,100,100);
+  background-color: #cc1313;;
+}
